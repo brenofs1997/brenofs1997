@@ -1,4 +1,4 @@
-### Oiii eu sou Breno Fernandes.
+### Oi eu sou Breno Fernandes.
 
 - 🔭 Bacharel em Sistemas de Informação.
 - 🌱 Estudando Javascript, java com springboot e Aws.
