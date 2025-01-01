@@ -1,7 +1,7 @@
 ### Oi eu sou Breno Fernandes.
 
 - 🔭 Bacharel em Sistemas de Informação.
-- 🌱 Estudando Javascript, java com springboot e Aws.
+- 🌱 Desenvolvedor Delphi, Javascript, React,Angular, Java com springboot e Aws.
 
 <div align="center">
   <a href="https://github.com/brenofs1997">
